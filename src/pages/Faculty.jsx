@@ -13,6 +13,7 @@ const Faculty = () => {
           <div className='font-medium flex flex-col gap-4'>
           <h2>Name: {items.name}</h2>
           <h3>Designation: {items.designation}</h3>
+          <h3>Qualification: {items.qualification}</h3>
           </div>
         </div> 
         );
