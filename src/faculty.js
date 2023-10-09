@@ -3,6 +3,7 @@ export const faculty = [
         url: 'src/assets/ithod.jpg',
         name: 'Prof. Dr. Savita Sangam',
         designation: 'Head Of Department',
+        qualification: 'PhD',
     },
     {
         url: 'src/assets/gowri-gorbal.jpg',
