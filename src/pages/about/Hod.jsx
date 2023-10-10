@@ -9,7 +9,7 @@ const Hod = () => {
           <div className="flex gap-5 text-center mb-10">
             <img src={hodPhoto} alt="HOD"  width={250} height={300}/>
               
-            <div className='text-left font-semibold flex flex-col gap-3'>
+            <div className='text-left font-semibold flex flex-col gap-5 text-lg'>
               <p>Name : Prof. Dr. Savita Sangam</p>
               <p>Designation : HEAD OF DEPARTMENT</p>
               <p>Qualification : Ph.D.</p>

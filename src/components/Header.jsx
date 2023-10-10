@@ -3,6 +3,7 @@ import collegeLogo from '../assets/clg_logo.png';
 import itsaLogo from '../assets/ITSA_logo.png';
 import newsGif from '../assets/header/news.gif';
 import DD from "/src/assets/DD.jpg"
+import UT from "/src/assets/UT2notic.jpg";
 
 
 const Header = () => {
@@ -41,7 +42,9 @@ const Header = () => {
           <section className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <img src={newsGif} alt="news gif animation" width="40" />
-              <p>UT 2 Papers will start from 17th October to 19th October</p>
+                <a href={UT} target='blank'>
+                <p>UT 2 Papers will start from 17th October to 19th October</p>
+                </a>
             </div>
             <div className="flex items-center gap-2">
             <img src={newsGif} alt="news gif animation" width="40" />

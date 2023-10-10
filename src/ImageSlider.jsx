@@ -12,16 +12,16 @@ const ImageSlider = ({ images }) => {
         slidesToScroll: 1,
         lazyLoad: true,
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 3000,
  
     };
     return (
         <>
-            <div className="imgslider">
+            <div className="imgslider overflow-hidden">
                 <Slider {...settings}>
                     {images.map((item) => (
                         <div key={item.id}>
-                            <img src={item.src} alt={item.alt} className="mx-auto w-[100%] h-auto" />
+                            <img src={item.src} alt={item.alt} className="w-[100%] h-auto" />
                         </div>
                     ))}
                 </Slider>
