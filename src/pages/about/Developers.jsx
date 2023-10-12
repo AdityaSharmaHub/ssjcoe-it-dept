@@ -1,7 +1,7 @@
 import React from 'react'
-// import adityaphoto from '/src/assets/Vishnuyelde.jpg'
+import adityaphoto from '/src/assets/aditya.jpg'
 import vishnuphoto from '/src/assets/Vishnuyelde.jpeg'
-// import prachitiphoto from '/src/assets/ithod.jpg'
+import prachitiphoto from '/src/assets/prachiti.jpg'
 
 
 const Developers = () => {
@@ -11,21 +11,21 @@ const Developers = () => {
           <div className='flex justify-around mb-20'>
 
             <div className='text-center font-semibold flex flex-col justify-center items-center'>
-              <img src={vishnuphoto} className='mb-5' alt="Developer" width={300} />
-              <p className='text-lg'>Name : Mr. Aditya Sharma</p>
-              <p className='text-lg'>Specialization : Full Stack Web Developer</p>
+              <img src={adityaphoto} className='mb-5' alt="Developer" width={300} />
+              <p className='text-lg'>Mr. Aditya Sharma</p>
+              <p className='text-lg'>Full Stack Web Developer</p>
             </div>
           
             <div className='text-center font-semibold flex flex-col justify-center items-center'>
               <img src={vishnuphoto} className='mb-5' alt="Developer" width={300} />
-              <p className='text-lg'>Name : Mr. Vishnu Yelde</p>
-              <p className='text-lg'>Specialization : Frontend Developer</p>
+              <p className='text-lg'>Mr. Vishnu Yelde</p>
+              <p className='text-lg'>Frontend Developer</p>
             </div>
           
             <div className='text-center font-semibold flex flex-col justify-center items-center'>
-              <img src={vishnuphoto} className='mb-5' alt="Developer" width={300} />
-              <p className='text-lg'>Name : Miss Prachiti Yadav</p>
-              <p className='text-lg'>Specialization : Assistant Engineer</p>
+              <img src={prachitiphoto} className='mb-5' alt="Developer" width={300} />
+              <p className='text-lg'>Miss Prachiti Yadav</p>
+              <p className='text-lg'>Assistant Engineer</p>
             </div>
           
             </div>

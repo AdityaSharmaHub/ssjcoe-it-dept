@@ -1,6 +1,6 @@
 import React from 'react'
 import DD from "/src/assets/DD.jpg"
-import UT from "/src/assets/UT2notic.jpg";
+import UT from "/src/assets/tt.jpg";
 import newsGif from '../assets/header/news.gif';
 
 const Notices = () => {
