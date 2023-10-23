@@ -37,19 +37,19 @@ const Header = () => {
 
 
       {/* -------------------------- Announcement Section ------------------------------ */}
-      <div className="border-gray-300 border-[1px] p-[4px]">
+      <div className="border-gray-300 border-[1px] p-[4px] text-blue-700">
         <marquee behavior="" direction="">
           <section className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <img src={newsGif} alt="news gif animation" width="40" />
                 <a href={UT} target='blank'>
-                <p>UT 2 Papers will start from 17th October to 19th October</p>
+                <p className="text-blue-600 hover:text-blue-700 hover:underline">UT 2 Papers will start from 17th October to 19th October</p>
                 </a>
             </div>
             <div className="flex items-center gap-2">
             <img src={newsGif} alt="news gif animation" width="40" />
               <a href={DD} target='blank'>
-                <p>Submit your Exam form with DD before 11th November</p>
+                <p className="text-blue-600 hover:text-blue-700 hover:underline">Submit your Exam form with DD before 11th November</p>
               </a>
             </div>
           </section>

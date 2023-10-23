@@ -12,7 +12,7 @@ const images = [{
 },
 {
     id: 3,
-    src: 'src/assets/clg_img.png',
+    src: 'src/assets/clg_photo.jpeg',
     alt: "Image 3"
 }
 ];
