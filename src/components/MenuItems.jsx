@@ -1,5 +1,6 @@
 import Dropdown from './Dropdown';
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const MenuItems = ({ items }) => {
     const [dropdown, setDropdown] = useState(false);
@@ -15,7 +16,7 @@ const MenuItems = ({ items }) => {
           <Dropdown submenus={items.submenu} dropdown={dropdown} />
         </>
       ) : (
-        <a href={items.url} className="py-3 px-8 block hover:bg-blue-500 hover:text-white font-medium rounded-md">{items.title}</a>
+        <Link to={items.url} className="py-3 px-8 block hover:bg-blue-500 hover:text-white font-medium rounded-md">{items.title}</Link>
       )}
     </li>
   );
