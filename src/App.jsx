@@ -27,14 +27,14 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/hod" element={<Hod />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/developers" element={<Developers />} />
+          <Route path="/about/hod" element={<Hod />} />
+          <Route path="/about/contact" element={<Contact />} />
+          <Route path="/about/developers" element={<Developers />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/faculty" element={<Faculty />} />
-          <Route path="/se" element={<SE />} />
-          <Route path="/te" element={<TE />} />
-          <Route path="/be" element={<BE />} />
+          <Route path="/students/se" element={<SE />} />
+          <Route path="/students/te" element={<TE />} />
+          <Route path="/students/be" element={<BE />} />
           <Route path="/alumni" element={<Alumni />} />
           <Route path="/notices" element={<Notices />} />
           <Route path="/login" element={<Login />} />
