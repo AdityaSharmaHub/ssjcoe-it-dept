@@ -9,6 +9,18 @@ const Notices = () => {
       <div className='items-center my-10  flex flex-col gap-4 mb-80'>
         <div className="flex items-center font-semibold text-blue-500 hover:underline gap-4">
           <img src={newsGif} alt="news gif animation" width="40" />
+          <a href="" target='blank'>
+            <p>Viva/Oral is starting from 27th October 2023</p>
+          </a>
+        </div>
+        <div className="flex items-center font-semibold text-blue-500 hover:underline gap-4">
+          <img src={newsGif} alt="news gif animation" width="40" />
+          <a href="" target='blank'>
+            <p>Semester V Exams starts from 22nd November 2023</p>
+          </a>
+        </div>
+        <div className="flex items-center font-semibold text-blue-500 hover:underline gap-4">
+          <img src={newsGif} alt="news gif animation" width="40" />
           <a href={UT} target='blank'>
             <p>UT 2 Papers will start from 17th October to 19th October</p>
           </a>

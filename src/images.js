@@ -1,4 +1,6 @@
 import collegeImg from './assets/clg_photo.jpeg'
+import sliderImg2 from './assets/sliderImg2.jpg'
+import sliderImg3 from './assets/sliderImg3.jpg'
 
 const images = [{
     id: 1,
@@ -7,12 +9,12 @@ const images = [{
 },
 {
     id: 2,
-    src: collegeImg,
+    src: sliderImg2,
     alt: "Image 2 "
 },
 {
     id: 3,
-    src: collegeImg,
+    src: sliderImg3,
     alt: "Image 3"
 }
 ];

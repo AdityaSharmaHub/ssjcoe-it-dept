@@ -16,10 +16,10 @@ const TE = () => {
       <div className='flex flex-col gap-4 mx-10'>
         <div className='flex font-semibold'>Time Table</div>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
-          Semester 5 Regular 2023-24
+          Sem 5 Regular 23-24
         </a>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
-          Semester 5 Winter Exam 2023-24
+          Sem 5 Winter Exam 23-24
         </a>
       </div>
       <div className='flex flex-col gap-4 mx-10'>
@@ -32,16 +32,35 @@ const TE = () => {
       <div className='flex flex-col gap-4 mx-10'>
         <div className='flex font-semibold'>Result</div>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
-          Semester 3 Result 2022-23
+          Sem 3 Result 22-23
         </a>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
-          Semester 4 Result 2022-23
+          Sem 4 Result 22-23
         </a>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
-          Semester 3 KT Result 2022-23
+          Sem 3 KT Result 22-23
         </a>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
-          Semester 4 KT Result 2022-23
+          Sem 4 KT Result 22-23
+        </a>
+      </div>
+
+      <div className='flex flex-col gap-4 mx-10'>
+        <div className='flex font-semibold'>IA Results</div>
+        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+          EEB Result 23-24
+        </a>
+        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+          IP Result 23-24
+        </a>
+        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+          CNS Result 23-24
+        </a>
+        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+          SE Result 23-24
+        </a>
+        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+          ADMT Result 23-24
         </a>
       </div>
     </div>

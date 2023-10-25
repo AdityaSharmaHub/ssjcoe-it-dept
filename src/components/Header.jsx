@@ -2,8 +2,8 @@ import React from 'react'
 import collegeLogo from '../assets/clg_logo.png';
 import itsaLogo from '../assets/ITSA_logo.png';
 import newsGif from '../assets/header/news.gif';
-import DD from "/src/assets/DD.jpg"
-import UT from "/src/assets/UT2notic.jpg";
+import vivaDatesImg from "/src/assets/viva_dates_sem5.jpg"
+import UT from "/src/assets/sem_5_exam.pdf";
 
 
 const Header = () => {
@@ -42,15 +42,15 @@ const Header = () => {
           <section className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <img src={newsGif} alt="news gif animation" width="40" />
-                <a href={UT} target='blank'>
-                <p className="text-blue-600 hover:text-blue-700 hover:underline">UT 2 Papers will start from 17th October to 19th October</p>
+                <a href={vivaDatesImg} target='blank'>
+                <p className="text-blue-600 hover:text-blue-700 hover:underline">Viva/Oral is starting from 27th October 2023</p>
                 </a>
             </div>
             <div className="flex items-center gap-2">
-            <img src={newsGif} alt="news gif animation" width="40" />
-              <a href={DD} target='blank'>
-                <p className="text-blue-600 hover:text-blue-700 hover:underline">Submit your Exam form with DD before 11th November</p>
-              </a>
+              <img src={newsGif} alt="news gif animation" width="40" />
+                <a href={UT} target='blank'>
+                <p className="text-blue-600 hover:text-blue-700 hover:underline">Semester V Exams starts from 22nd November 2023</p>
+                </a>
             </div>
           </section>
         </marquee>
