@@ -34,36 +34,5 @@ video {
 .container{
     max-width: 1200px;
     margin-inline: auto;
-}
-
-ul{
-    position: relative;
-}
-
-.dropdown{
-    display: none;
-    position: absolute;
-    top: 60px;
-    background-color: #448aff;
-    color: #fff;
-    min-width: 150px;
-    z-index: 10;
-    border-radius: 0.375rem;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
-}
-
-.dropdown::before{
-    content: '';
-    position: absolute;
-    top: -5px;
-    left: 50px;
-    width: 10px;
-    height: 10px;
-    background-color: #448aff;
-    rotate: 45deg;
-    z-index: -1;
-}
-
-.dropdown.show{
-    display: block;
+    padding: 10px;
 }

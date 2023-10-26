@@ -23,7 +23,7 @@ const Home = () => {
         <h2 className="font-semibold text-xl mt-10 mb-3">PEO</h2>
         <p>A graduate of the department of information technology will be able to Prepare learners with a sound foundation in the basic of engineering fundamentals. Encourage learner to use the best practices and implement technologies to analyze, design and implement information system. Illustrate the leadership, business communication skills, teamwork, and adaptability to achieve goals.</p>
 
-        <div className="flex justify-between items-center my-5">
+        <div className="flex md:flex-row flex-col justify-between items-center my-5">
 
         
         <div>

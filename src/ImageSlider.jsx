@@ -21,7 +21,7 @@ const ImageSlider = ({ images }) => {
                 <Slider {...settings}>
                     {images.map((item) => (
                         <div key={item.id}>
-                            <img src={item.src} alt={item.alt} className="w-[100%] h-[500px] object-cover" />
+                            <img src={item.src} alt={item.alt} className="w-[100%] md:h-[550px] h-[250px] object-cover" />
                         </div>
                     ))}
                 </Slider>

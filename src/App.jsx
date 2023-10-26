@@ -16,6 +16,7 @@ import BE from "./pages/students/BE";
 import Alumni from "./pages/Alumni";
 import Notices from "./pages/Notices";
 import Login from "./pages/Login"
+import Signup from "./pages/Signup";
 
 
 export default function App() {
@@ -38,6 +39,7 @@ export default function App() {
           <Route path="/alumni" element={<Alumni />} />
           <Route path="/notices" element={<Notices />} />
           <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
         </Routes>
       <Footer/>
       </BrowserRouter>
