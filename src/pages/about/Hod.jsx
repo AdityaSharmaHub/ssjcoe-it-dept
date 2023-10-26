@@ -6,7 +6,7 @@ const Hod = () => {
   return (
     <div className='container'>
         <h2 className="font-bold text-center text-2xl mt-10 mb-10">HEAD OF DEPARTMENT Of INFORMATION TECHNOLOGY</h2>
-          <div className="flex gap-5 text-center mb-10">
+          <div className="flex md:flex-row flex-col gap-5 text-center mb-10">
             <img src={hodPhoto} alt="HOD"  width={250} height={300}/>
               
             <div className='text-left font-semibold flex flex-col gap-5 text-lg'>

@@ -10,7 +10,7 @@ const Alumni = () => {
   return (
     <div className='container'>
       <h1 className='font-bold text-2xl text-center mt-10 mb-10'>Alumni Meet 2023</h1>
-      <div className='grid grid-cols-3 gap-10 mb-20'> 
+      <div className='grid md:grid-cols-3 gap-10 mb-20'> 
       <img className='object-cover border-gray-200 border-2 shadow-md h-[250px] w-[350px] hover:scale-110 transition ease-in-out duration-300' src={img1} alt="img" width={350} height={250} />
       <img className='object-cover border-gray-200 border-2 shadow-md h-[250px] w-[350px] hover:scale-110 transition ease-in-out duration-300' src={img20} alt="img" width={350} height={250} />
       <img className='object-cover border-gray-200 border-2 shadow-md h-[250px] w-[350px] hover:scale-110 transition ease-in-out duration-300' src={img21} alt="img" width={350} height={250} />

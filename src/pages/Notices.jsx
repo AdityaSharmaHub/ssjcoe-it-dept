@@ -7,6 +7,7 @@ const Notices = () => {
   return (
     <div className='container '>
       <div className='items-center my-10  flex flex-col gap-4 mb-80'>
+        <h2 className="font-semibold text-xl mb-5">Notices</h2>
         <div className="flex items-center font-semibold text-blue-500 hover:underline gap-4">
           <img src={newsGif} alt="news gif animation" width="40" />
           <a href="" target='blank'>

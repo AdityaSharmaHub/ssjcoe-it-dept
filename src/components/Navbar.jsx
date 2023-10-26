@@ -48,36 +48,36 @@ const Navbar = () => {
         </ul>
         {/* Mobile responsive */}
         <ul className={`
-        md:hidden absolute bg-white w-full top-14 py-4 border-2 pl-4 duration-500 ${open ? "left-0" : "left-[-100%]"}
+        md:hidden absolute bg-white w-full top-12 py-4 border-2 pl-4 duration-500 ${open ? "left-0" : "left-[-100%]"}
         `}>
           <li>
-            <Link to="/" className="py-4 px-2 block hover:bg-blue-100">
+            <Link to="/" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Home
             </Link>
           </li>
-          <NavLinks />
+          <NavLinks onClick={() => setOpen(!open)} />
           <li>
-            <Link to="/gallery" className="py-4 px-2 block hover:bg-blue-100">
+            <Link to="/gallery" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Gallery
             </Link>
           </li>
           <li>
-            <Link to="/faculty" className="py-4 px-2 block hover:bg-blue-100">
+            <Link to="/faculty" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Faculty
             </Link>
           </li>
           <li>
-            <Link to="/alumni" className="py-4 px-2 block hover:bg-blue-100">
+            <Link to="/alumni" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Alumni
             </Link>
           </li>
           <li>
-            <Link to="/notices" className="py-4 px-2 block hover:bg-blue-100">
+            <Link to="/notices" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Notices
             </Link>
           </li>
           <li>
-            <Link to="/login" className="py-4 px-2 block hover:bg-blue-100">
+            <Link to="/login" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Login
             </Link>
           </li>
