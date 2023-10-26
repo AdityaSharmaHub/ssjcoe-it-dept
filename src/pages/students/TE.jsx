@@ -2,11 +2,15 @@ import React from 'react'
 import SS from "/src/assets/studentslist.pdf"
 import rtt from "/src/assets/TTSem5.jpg"
 import TS from "/src/assets/students/TEIT_Syllabus_MU.pdf"
+import sem5_syllabus from "/src/assets/students/sem5_syllabus.pdf"
+import sem6_syllabus from "/src/assets/students/sem6_syllabus.pdf"
+import IA_EEB from "/src/assets/students/TE/IA/EEB_23-24.pdf"
+import IA_IP from "/src/assets/students/TE/IA/IP_23-24.pdf"
 
 const TE = () => {
   return (
 
-    <div className='container flex md:flex-row flex-col gap-10 justify-between mt-10 mb-20' style={{padding: 20}}>
+    <div className='container flex md:flex-row flex-col gap-10 justify-between mt-10 mb-20 md:mb-[13rem]' style={{padding: 20}}>
       <div className='flex flex-col gap-4'>
         <div className='flex font-semibold'>Student List</div>
         <a href={SS} target='_blank' className='font-[400] text-blue-500 hover:underline'>
@@ -24,8 +28,11 @@ const TE = () => {
       </div>
       <div className='flex flex-col gap-4'>
         <div className='flex font-semibold'>Syllabus</div>
-        <a href={TS} target='_blank' className=' font-[400] text-blue-500 hover:underline'>
-          SEM 5 & SEM 6
+        <a href={sem5_syllabus} target='_blank' className=' font-[400] text-blue-500 hover:underline'>
+          SEM 5
+        </a>
+        <a href={sem6_syllabus} target='_blank' className=' font-[400] text-blue-500 hover:underline'>
+          SEM 6
         </a>
       </div>
 
@@ -47,10 +54,10 @@ const TE = () => {
 
       <div className='flex flex-col gap-4'>
         <div className='flex font-semibold'>IA Results</div>
-        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+        <a href={IA_EEB} target='_blank' className='font-[400] text-blue-500 hover:underline'>
           EEB Result 23-24
         </a>
-        <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>
+        <a href={IA_IP} target='_blank' className='font-[400] text-blue-500 hover:underline'>
           IP Result 23-24
         </a>
         <a href={rtt} target='_blank' className='font-[400] text-blue-500 hover:underline'>

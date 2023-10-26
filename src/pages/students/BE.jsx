@@ -5,7 +5,7 @@ import TS from "/src/assets/students/TEIT_Syllabus_MU.pdf"
 
 const BE = () => {
   return (
-    <div className='container flex md:flex-row flex-col gap-10 justify-between mt-10 mb-20' style={{padding: 20}}>
+    <div className='container flex md:flex-row flex-col gap-10 justify-between mt-10 mb-20 md:mb-[13rem]' style={{padding: 20}}>
       <div className='flex flex-col gap-4'>
         <div className='flex font-semibold'>Student List</div>
         <a href={SS} target='_blank' className='font-[400] text-blue-500 hover:underline'>
