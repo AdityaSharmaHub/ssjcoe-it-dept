@@ -5,8 +5,8 @@ import autoprefixer from 'autoprefixer'
 const Hod = () => {
   return (
     <div className='container'>
-      <h2 className="font-bold text-center text-2xl mt-10 mb-10">HOD's Message</h2>
-      <div className="flex md:flex-row flex-col gap-5 text-center mb-10">
+      <h2 className="font-bold text-center text-2xl mt-10 mb-2">HOD's Message</h2><hr />
+      <div className="flex md:flex-row flex-col gap-5 text-center mb-20 mt-10">
         <div className="min-w-[25%]">
           <img src={hodPhoto} alt="HOD" width={250} height={300} className="mx-auto" />
           <div className='font-semibold text-lg mt-5'>
