@@ -55,7 +55,7 @@ const Navbar = () => {
               Home
             </Link>
           </li>
-          <NavLinks onClick={() => setOpen(!open)} />
+          <NavLinks />
           <li>
             <Link to="/gallery" className="py-4 px-2 block hover:bg-blue-100" onClick={() => setOpen(!open)}>
               Gallery
