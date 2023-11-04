@@ -27,7 +27,7 @@ Live Demo - https://ssjcoeit.netlify.app/
 - Alumni page to share photos of the Alumni meets. 
 
 
-## Getting Started
+## Getting started
 
 Step 1: Clone this repository 
 
@@ -51,16 +51,40 @@ Step 3: Run the server
 ## Screenshots
 
 ![Home page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/340d12e9-bc62-4281-a18c-df0ff276edbf)
+<p align="center">
+  <b>Home Page</b>
+</p>
+<br>
 
 ![Hod page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/03f6b70d-fef4-44ef-9735-58bdbb639b27)
+<p align="center">
+  <b>HODs Page</b>
+</p>
+<br>
 
 ![Gallery](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/4a11d18c-c25e-4eb6-bf89-a7c435231f97)
+<p align="center">
+  <b>Gallery</b>
+</p>
+<br>
 
 ![Faculty page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/f53ba523-df9a-4228-8244-3153c88ffdf1)
+<p align="center">
+  <b>Faculty Page</b>
+</p>
+<br>
 
 ![Students page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/f31ce58d-d54d-45e2-9e42-be0746a92961)
+<p align="center">
+  <b>Students Page</b>
+</p>
+<br>
 
 ![Notices page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/3baa5031-05a8-4d5e-b503-2b103f5b3d9e)
+<p align="center">
+  <b>Notices Page</b>
+</p>
+<br>
 
 
 ## Support
