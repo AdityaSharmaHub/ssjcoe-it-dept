@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/6686a2e8-2d2d-47be-be3e-f4491776f739" width="100" height="100" />
 
 # SSJCOE IT Department Website | React.js Tailwind CSS
 
-In an era dominated by technology and information, a strong online presence is crucial for any institution. In this spirit, we proudly introduce our project, the "IT Department Website" for our esteemed college's IT department.
+In an era dominated by technology and information, a strong online presence is crucial for any institution. In this spirit, we proudly introduce our project, the "IT Department Website" for our esteemed college's IT department. Our project is based on ( React.js and Tailwind CSS )
 
+</div>
 
 ## Author
 
