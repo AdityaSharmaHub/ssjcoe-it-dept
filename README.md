@@ -50,17 +50,17 @@ Step 3: Run the server
     
 ## Screenshots
 
-![Home Page](https://drive.google.com/file/d/1YqBqellNGsflNhl0dQ8r6wcQ9dy2h7it/view?usp=sharing)
+![Home page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/340d12e9-bc62-4281-a18c-df0ff276edbf)
 
-![HODs Page](https://drive.google.com/file/d/1gsPRwtvZxAh67UzFi-Dz9MQPU66xiAKl/view?usp=sharing)
+![Hod page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/03f6b70d-fef4-44ef-9735-58bdbb639b27)
 
-![Gallery Page](https://drive.google.com/file/d/1o8ZHk1CXNfXseqpqKyV656XmHfSdmnAE/view?usp=sharing)
+![Gallery](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/4a11d18c-c25e-4eb6-bf89-a7c435231f97)
 
-![Faculty Page](https://drive.google.com/file/d/1iKzfqeCgXlhASflo2XzMizVKsweZvl9I/view?usp=sharing)
+![Faculty page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/f53ba523-df9a-4228-8244-3153c88ffdf1)
 
-![Students Page](https://drive.google.com/file/d/1LSYtCP1wdz0HcbbrnmhtWeHa_3b2gK0b/view?usp=sharing)
+![Students page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/f31ce58d-d54d-45e2-9e42-be0746a92961)
 
-![Notices Page](https://drive.google.com/file/d/1rmBusTXvCboPmdFq8JCGo5xWpc4tqYBo/view?usp=sharing)
+![Notices page](https://github.com/AdityaSharma4857/ssjcoe-it-dept/assets/111893234/3baa5031-05a8-4d5e-b503-2b103f5b3d9e)
 
 
 ## Support
