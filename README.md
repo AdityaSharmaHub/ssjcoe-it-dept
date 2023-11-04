@@ -1,7 +1,7 @@
 
 # SSJCOE IT Department Website
 
-In an era dominated by technology and information, a strong online presence is crucial for any institution. In this spirit, we proudly introduce upcoming project, the "IT Department Website" for our esteemed college's IT department.
+In an era dominated by technology and information, a strong online presence is crucial for any institution. In this spirit, we proudly introduce our project, the "IT Department Website" for our esteemed college's IT department.
 
 
 ## Author
@@ -27,38 +27,43 @@ Live Demo - https://ssjcoeit.netlify.app/
 - Alumni page to share photos of the Alumni meets. 
 
 
-## Installation
+## Getting Started
 
-Install my-project with npm
+Step 1: Clone this repository 
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/AdityaSharma4857/ssjcoe-it-dept.git
+```
+```bash
+  cd ssjcoe-it-dept-main
+```
+Step 2: Install all the dependencies
+
+```bash
+  npm install
+```
+Step 3: Run the server
+
+```bash
+  npm run dev
 ```
     
-## Run Locally
+## Screenshots
 
-Step 1: Download the .zip file of the project
+![Home Page](https://drive.google.com/file/d/1YqBqellNGsflNhl0dQ8r6wcQ9dy2h7it/view?usp=sharing)
 
-Step 2: Go to the project directory
+![HODs Page](https://drive.google.com/file/d/1gsPRwtvZxAh67UzFi-Dz9MQPU66xiAKl/view?usp=sharing)
 
-```bash
-  cd portfolio-main
-```
+![Gallery Page](https://drive.google.com/file/d/1o8ZHk1CXNfXseqpqKyV656XmHfSdmnAE/view?usp=sharing)
 
-Step 3: Install dependencies
+![Faculty Page](https://drive.google.com/file/d/1iKzfqeCgXlhASflo2XzMizVKsweZvl9I/view?usp=sharing)
 
-```bash
-  pip install                         // for windows
-```
-or
-```bash
-  pip3 install                        // for mac and linux
-```
+![Students Page](https://drive.google.com/file/d/1LSYtCP1wdz0HcbbrnmhtWeHa_3b2gK0b/view?usp=sharing)
 
-Step 4: Run the project
+![Notices Page](https://drive.google.com/file/d/1rmBusTXvCboPmdFq8JCGo5xWpc4tqYBo/view?usp=sharing)
 
-```bash
-  python main.py
-```
+
+## Support
+
+For support, email adisharma4857@gmail.com or vishnuyelde@gmail.com
 
