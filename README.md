@@ -1,5 +1,5 @@
 
-# SSJCOE IT Department Website
+# SSJCOE IT Department Website | React.js Tailwind CSS
 
 In an era dominated by technology and information, a strong online presence is crucial for any institution. In this spirit, we proudly introduce our project, the "IT Department Website" for our esteemed college's IT department.
 
@@ -26,8 +26,14 @@ Live Demo - https://ssjcoeit.netlify.app/
 - Gallery tab to showcase our beautiful memories related to any events.
 - Alumni page to share photos of the Alumni meets. 
 
+## Tech Stack
 
-## Getting started
+- HTML, CSS & Javascript
+- React.js
+- Tailwind CSS
+
+
+## Getting Started
 
 Step 1: Clone this repository 
 
