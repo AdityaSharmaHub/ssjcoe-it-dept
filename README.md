@@ -9,7 +9,7 @@ In an era dominated by technology and information, a strong online presence is c
 
 ## Author
 
-- [@AdityaSharma4857](https://www.github.com/AdityaSharma4857)
+- [@AdityaSharmaHub](https://www.github.com/AdityaSharmaHub)
 - [@VishnuYelde](https://www.github.com/VishnuYelde)
 - [@PrachitiYadav](https://www.github.com/PrachitiYadav)
 
